@@ -36,7 +36,7 @@ class Num:
 
 
 
-n1 = Num(-13)
+n1 = Num(-10)
 n2 = Num(5)
 
 print(n1 + n2)
